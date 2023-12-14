@@ -4,7 +4,7 @@ import { WagmiConfig } from 'wagmi'
 import { arbitrum, mainnet } from 'viem/chains'
 
 // 1. Get projectId at https://cloud.walletconnect.com
-const projectId = 'YOUR_PROJECT_ID'
+const projectId = 'd7ba718612de445bd528f93351d24fc1'
 
 // 2. Create wagmiConfig
 const metadata = {
